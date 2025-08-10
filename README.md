@@ -41,7 +41,7 @@ most important cluster-based words for each entry.
 
 # Uruchomienie / Run
 
-python main.py
+python add_semantif_tfdif.py
 
 Wynik zostanie zapisany w pliku:
 horeca_pomorskie_with_powiat_with_tfidf.csv
