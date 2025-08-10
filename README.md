@@ -1,10 +1,10 @@
 # Opis / Description
 
-Ten skrypt analizuje polskie nazwy obiektów gastronomicznych/turystycznych,
+Ten skrypt analizuje opisy dofinansowania obiektów gastronomicznych/turystycznych,
 lematyzuje je, grupuje podobne słowa w klastry przy użyciu wektorów fastText,
 a następnie oblicza top 5 najważniejszych słów (po klastrach) dla każdego wpisu.
 
-This script analyzes Polish names of horeca objects, lemmatizes them,
+This script analyzes Polish descriptions of fundings for horeca objects, lemmatizes them,
 clusters similar words using fastText embeddings, and calculates the top 5
 most important cluster-based words for each entry.
 
